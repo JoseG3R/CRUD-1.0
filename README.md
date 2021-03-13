@@ -12,4 +12,4 @@ Para que la tabla funcione correctamente, tras haber descargado el repositorio, 
 - Entre al proyecto CRUD-1.0 desde cualquier editor de  código o desde una cualquier console siempre y cuando se enecuentre dentro de la carpeta de la página web y ejecute el comando:
 `php artisan serve`
 El cual le devolvera la url del servidor local a la cual hay que ingresar.
-- Una vez dentro de la página, observaremos el inicio por defecto de laravel,  en la esquina superior derecha nos registramos e iniciamos sesión y ya estaremos dentro del CRU
+- Una vez dentro de la página, observaremos el inicio por defecto de laravel,  en la esquina superior derecha nos registramos e iniciamos sesión y ya estaremos dentro del CRU.
